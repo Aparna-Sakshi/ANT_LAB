@@ -1,2 +1,2 @@
 # ANT_LAB
-Advance Numerical Technique Lab
+Advance Numerical Techniques - Taught by Prof S Bhattacharya, IIT Kharagpur
